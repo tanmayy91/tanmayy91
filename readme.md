@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=7aa2f7&height=120&section=header&text=tanmay.js&fontSize=50&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=7aa2f7&height=120&section=header&text=tanmay&fontSize=50&animation=fadeIn" width="100%" />
 
 <br/>
 
